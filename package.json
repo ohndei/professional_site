@@ -1,0 +1,7 @@
+{
+	"name": "andrew-fanton.com",
+	"version": "0.0.1",
+	"scripts": {
+		"deploy": "./deploy"
+	}
+}
